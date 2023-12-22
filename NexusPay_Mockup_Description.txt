@@ -1,0 +1,32 @@
+
+NexusPay Dashboard Mockup Description
+
+Overall Layout
+- Header: Includes the NexusPay logo on the left and user account details on the right (with options for settings, help, and logout).
+- Navigation Bar: Located on the left side, with menu items for Dashboard, Transactions, Merchants, Reports, User Management, and System Settings.
+- Main Content Area: Changes based on selected navigation option.
+
+Dashboard Page
+- Summary Cards at Top: Small cards showing key metrics like Total Transactions, Total Revenue, Active Merchants, and New Sign-ups.
+- Transaction Graph: A line graph or bar chart showing transaction volumes over time.
+- Recent Transactions: A table listing the most recent transactions with details like Transaction ID, Merchant, Amount, Date, and Status.
+
+Transactions Page
+- Filters: Options to filter transactions by date, merchant, status, etc.
+- Transactions Table: Detailed table listing all transactions. Columns include Transaction ID, User, Merchant, Amount, Date, and Status. Pagination for navigating through records.
+
+Merchants Page
+- Merchant List: A table listing all registered merchants with details like Merchant ID, Name, Contact Info, and Total Transactions.
+- Add Merchant Button: For adding new merchants to the system.
+
+Reports Page
+- Report Generation Tools: Options to select report type, date range, and other parameters.
+- Generated Reports: Area showing previously generated reports with options to view or download.
+
+User Management Page
+- User List: A table showing user details. Columns include User ID, Name, Email, Role, and Last Login.
+- Add User Button: For adding new users/admins to the system.
+
+System Settings Page
+- General Settings: Options for system configurations like API keys, notification settings, etc.
+- Security Settings: Options for password policies, two-factor authentication settings, etc.
